@@ -1,0 +1,26 @@
+{
+  "name": "oceanic",
+  "version": "1.0.0",
+  "description": "Un bot Discord moderne et performant construit avec Oceanic.js",
+  "license": "ISC",
+  "author": "q-2",
+  "type": "module",
+  "main": "index.js",
+  "imports": {
+    "#config": "./config.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.4.1",
+    "colors": "^1.4.0",
+    "oceanic.js": "^1.8.0",
+    "glob": "^11.0.3",
+    "gradient-string": "^3.0.0",
+    "mysql2": "^3.15.3",
+    "prisma": "^6.18.0",
+    "sequelize": "^6.37.7"
+  }
+}
