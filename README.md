@@ -158,10 +158,6 @@ Ce projet est sous licence ISC. Voir le fichier `LICENSE` pour plus de détails.
 **q-2**
 
 <div align="center">
-
-**[⬆ Retour en haut](#-oceanic-discord-bot)**
-
 Fait avec ❤️ par q-2
-
 </div>
 
